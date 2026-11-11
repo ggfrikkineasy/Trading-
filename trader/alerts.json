@@ -1,0 +1,29 @@
+{
+  "rules": [
+    {
+      "id": "amzn-plan-stop",
+      "symbol": "AMZN",
+      "type": "stop",
+      "price": 269.48,
+      "note": "plan stop: opening-range midpoint",
+      "date": "2026-11-10"
+    },
+    {
+      "id": "amzn-plan-target",
+      "symbol": "AMZN",
+      "type": "target",
+      "price": 278.21,
+      "note": "plan target: 2R (two times the risk)",
+      "date": "2026-11-10"
+    },
+    {
+      "id": "amzn-flat-by",
+      "symbol": "AMZN",
+      "type": "time",
+      "at": "15:55",
+      "label": "flat by close",
+      "before_close": true,
+      "date": "2026-11-10"
+    }
+  ]
+}

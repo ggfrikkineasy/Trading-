@@ -1,0 +1,87 @@
+{
+  "created_by": "trader-scanner",
+  "created_at": "2026-11-11T03:47:15Z",
+  "mode": "daily",
+  "as_of": "2026-11-10 close",
+  "universe": 30,
+  "scanned": 30,
+  "failed": 0,
+  "source": "yahoo",
+  "filters": {
+    "min_price": 5.0,
+    "min_volume": 1000000
+  },
+  "note": "A scan is a list of charts that match a rule, not a list of stocks to buy.",
+  "hits": [
+    {
+      "symbol": "NVDA",
+      "setups": [
+        "oversold"
+      ],
+      "price": 168.89,
+      "close_date": "2026-11-10",
+      "rsi": 23.9,
+      "volume": 427096957
+    },
+    {
+      "symbol": "AMZN",
+      "setups": [
+        "breakout_20d"
+      ],
+      "price": 270.87,
+      "close_date": "2026-11-10",
+      "rsi": 61.4,
+      "volume": 38874955
+    },
+    {
+      "symbol": "AVGO",
+      "setups": [
+        "reclaim_ma20"
+      ],
+      "price": 331.98,
+      "close_date": "2026-11-10",
+      "rsi": 49.1,
+      "volume": 28299731
+    },
+    {
+      "symbol": "INTC",
+      "setups": [
+        "oversold"
+      ],
+      "price": 58.13,
+      "close_date": "2026-11-10",
+      "rsi": 28.8,
+      "volume": 100526592
+    },
+    {
+      "symbol": "LLY",
+      "setups": [
+        "breakout_20d"
+      ],
+      "price": 1432.29,
+      "close_date": "2026-11-10",
+      "rsi": 69.8,
+      "volume": 2824400
+    },
+    {
+      "symbol": "BAC",
+      "setups": [
+        "reclaim_ma20"
+      ],
+      "price": 50.68,
+      "close_date": "2026-11-10",
+      "rsi": 42.8,
+      "volume": 22683510
+    },
+    {
+      "symbol": "DIS",
+      "setups": [
+        "breakout_20d"
+      ],
+      "price": 119.21,
+      "close_date": "2026-11-10",
+      "rsi": 70.6,
+      "volume": 7726280
+    }
+  ]
+}
