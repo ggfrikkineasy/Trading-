@@ -1,10 +1,10 @@
 {
   "created_by": "trader-scanner",
-  "created_at": "2026-11-11T03:47:15Z",
+  "created_at": "2026-11-13T09:54:56Z",
   "mode": "daily",
-  "as_of": "2026-11-10 close",
-  "universe": 30,
-  "scanned": 30,
+  "as_of": "2026-11-12 close",
+  "universe": 10,
+  "scanned": 10,
   "failed": 0,
   "source": "yahoo",
   "filters": {
@@ -18,70 +18,30 @@
       "setups": [
         "oversold"
       ],
-      "price": 168.89,
-      "close_date": "2026-11-10",
-      "rsi": 23.9,
-      "volume": 427096957
+      "price": 166.19,
+      "close_date": "2026-11-12",
+      "rsi": 25.8,
+      "volume": 740019481
     },
     {
-      "symbol": "AMZN",
+      "symbol": "AMD",
       "setups": [
         "breakout_20d"
       ],
-      "price": 270.87,
-      "close_date": "2026-11-10",
-      "rsi": 61.4,
-      "volume": 38874955
+      "price": 585.3,
+      "close_date": "2026-11-12",
+      "rsi": 57.5,
+      "volume": 55014886
     },
     {
       "symbol": "AVGO",
       "setups": [
-        "reclaim_ma20"
-      ],
-      "price": 331.98,
-      "close_date": "2026-11-10",
-      "rsi": 49.1,
-      "volume": 28299731
-    },
-    {
-      "symbol": "INTC",
-      "setups": [
-        "oversold"
-      ],
-      "price": 58.13,
-      "close_date": "2026-11-10",
-      "rsi": 28.8,
-      "volume": 100526592
-    },
-    {
-      "symbol": "LLY",
-      "setups": [
         "breakout_20d"
       ],
-      "price": 1432.29,
-      "close_date": "2026-11-10",
-      "rsi": 69.8,
-      "volume": 2824400
-    },
-    {
-      "symbol": "BAC",
-      "setups": [
-        "reclaim_ma20"
-      ],
-      "price": 50.68,
-      "close_date": "2026-11-10",
-      "rsi": 42.8,
-      "volume": 22683510
-    },
-    {
-      "symbol": "DIS",
-      "setups": [
-        "breakout_20d"
-      ],
-      "price": 119.21,
-      "close_date": "2026-11-10",
-      "rsi": 70.6,
-      "volume": 7726280
+      "price": 364.36,
+      "close_date": "2026-11-12",
+      "rsi": 59.2,
+      "volume": 43502367
     }
   ]
 }
